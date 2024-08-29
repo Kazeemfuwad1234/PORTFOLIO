@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color:rgba(81, 81, 81); 
 }
 
 *{
@@ -19,6 +20,7 @@ body{
     display: flex;
     flex-direction: row;
     border-radius: 20px 20px 20px 20px;
+    box-shadow: 2px 2px 2px 2px rgb(31, 31, 31);
 }
 
 #nav-bar{
